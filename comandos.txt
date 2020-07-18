@@ -1,7 +1,7 @@
 git init
 git add .
 git commit -m "first commit"
---criar repositorio testeGit
+--criar repositorio testeGit no github
 git remote add origin  https://github.com/danielzauli/testeGit.git
 git push origin master   
 
